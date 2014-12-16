@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwipeToReload</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="brazilian_cities">
+        <item>Rio de Janeiro</item>
+        <item>Brasilia</item>
+        <item>Vitoria</item>
+        <item>Vila Velha</item>
+        <item>Sao Paulo</item>
+        <item>Porto Alegre</item>
+        <item>Passo Fundo</item>
+        <item>Curitiba</item>
+        <item>Sao Jose das Esperancas</item>
+    </string-array>
+
+</resources>
